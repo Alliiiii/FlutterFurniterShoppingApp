@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499971054678",
+    "firebase_url": "https://furnitureshoppingapp.firebaseio.com",
+    "project_id": "furnitureshoppingapp",
+    "storage_bucket": "furnitureshoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499971054678:android:829ccee36e98affde6aff7",
+        "android_client_info": {
+          "package_name": "com.example.FurniterShoppingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499971054678-he03c4l4pm6j3uva37vdts0q2jiv5pil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FurniterShoppingApp",
+            "certificate_hash": "1d49daa41108c18834ce917c4dee2d864e1ca3bc"
+          }
+        },
+        {
+          "client_id": "499971054678-v3t7qhggpp4otkspf4m9b2kplklv2vti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLs5_E4K8GE0G5niN4iV7KNsYADOlL_Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499971054678-v3t7qhggpp4otkspf4m9b2kplklv2vti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
